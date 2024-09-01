@@ -2,11 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-/* In your globals.css or another stylesheet */
-body {
-    transform: scale(0.5);
-    transform-origin: top left; /* Ensure scaling starts from the top left corner */
-    width: 200%; /* Compensate for the scaling effect to maintain layout */
-    height: 200%;
-  }
-  
